@@ -1,0 +1,28 @@
+h1{
+    font-size: 30px;
+    color:tomato;
+    text-align: center;
+}
+h3{
+    font-size: 20px;
+    color:greenyellow;
+    
+}
+ul{
+    
+    color:mediumvioletred;
+    
+}
+ol{
+    
+    color:rgb(19, 136, 19);
+    
+}
+a[href="hobby.html"]{
+    color:olive;
+    text-decoration: none;
+}
+a[href="about me.html"]{
+    color:brown;
+    text-decoration: none;
+}
